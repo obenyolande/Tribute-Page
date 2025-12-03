@@ -3,11 +3,11 @@ body{
 }
 
 .list{
-background-color:#bebcbc;
+  background-color:#bebcbc;
 
 }
 
-h4,h1,p,{ 
+h4,h1,p{ 
   text-align:center;
 }
 
