@@ -1,8 +1,8 @@
-body {
+body{
 
 }
 
-.list {
+.list{
 background-color:#bebcbc;
 
 }
@@ -12,13 +12,13 @@ h4,h1,p,{
 }
 
 .head,p,footer{
-  text-align: center;
+  text-align:center;
 }
 
-.head {
-  background-color: #bebcbc;
-
+.head{
+  background-color:#bebcbc;
 }
-ul,.image {
+
+ul,.image{
 justify-self:center;
 }
