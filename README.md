@@ -1,4 +1,4 @@
-# Tribute-Pag
+# Tribute-Page
 A simple html script that prints a system information and that uses html to style,write html codes
 ## Description
 This project shows how html script that prints a system information and that uses html to style,write html codes
