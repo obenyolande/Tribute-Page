@@ -1,4 +1,4 @@
-body,footer{
+body {
 
 }
 
@@ -7,12 +7,16 @@ background-color:#bebcbc;
 
 }
 
-h4,h1,p,footer{ 
+h4,h1,p,{ 
+  text-align:center;
+}
+
+.head,p,footer{
   text-align: center;
 }
 
 .head {
-  background-color:#bebcbc;
+  background-color: #bebcbc;
 
 }
 ul,.image {
