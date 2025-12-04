@@ -1,23 +1,28 @@
 body {
-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .list {
-background-color: #bebcbc;
+  background-color: #bebcbc;
 }
 
-h4,h1,p { 
-text-align: center;
+h4, 
+h1, 
+p { 
+  text-align: center;
 }
 
-.head,p,footer {
-text-align: center;
+.head, 
+p,
+footer {
+  text-align: center;
 }
 
 .head {
-background-color: #bebcbc;
+  background-color: #bebcbc;
 }
 
-ul,.image {
-justify-self: center;
+ul, 
+.image {
+  justify-self: center;
 }
