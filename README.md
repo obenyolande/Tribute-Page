@@ -1,7 +1,7 @@
 # Tribute-Page
-A simple html script that prints a system information and that uses html to style,write html codes
+A simple html script that prints a system information and that uses HTML to style and write HTML codes.
 ## Description
-This project shows how html script that prints a system information and that uses html to style,write html codes
+This project shows how html script that prints a system information and that uses HTML style to write HTML codes.
 ### Installation Requirements
 -download the file
 -cd to the directory where the program is found
