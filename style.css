@@ -1,4 +1,7 @@
-body {}
+body {
+  body;
+
+}
 
 .list {
 
@@ -7,24 +10,20 @@ background-color: #bebcbc;
 }
 
 h4,h1,p { 
-
 text-align: center;
 
 }
 
 .head,p,footer {
-
 text-align: center;
 
 }
 .head {
-
 background-color: #bebcbc;
 
 }
 
 ul,.image {
-
 justify-self: center;
 
 }
