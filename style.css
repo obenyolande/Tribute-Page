@@ -1,27 +1,30 @@
-body {
-
-}
+body {}
 
 .list {
 
-  background-color: #bebcbc;
+background-color: #bebcbc;
+
 }
 
 h4,h1,p { 
 
-  text-align: center;
+text-align: center;
+
 }
 
 .head,p,footer {
 
-  text-align: center;
+text-align: center;
+
 }
 .head {
 
-  background-color: #bebcbc;
+background-color: #bebcbc;
+
 }
 
 ul,.image {
 
-  justify-self: center;
+justify-self: center;
+
 }
