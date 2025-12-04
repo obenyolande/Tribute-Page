@@ -7,17 +7,13 @@ body {
 }
 
 h4,
-
 h1,
-
-p { 
+p {
   text-align: center;
 }
 
 .head,
-
 p,
-
 footer {
   text-align: center;
 }
